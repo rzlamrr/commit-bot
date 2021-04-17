@@ -11,7 +11,7 @@ arr[7]="bot: 👻 Thanks master."
 rand=$[$RANDOM % ${#arr[@]}]
 
 export TZ=Asia/Jakarta
-tgl=`date '+%D %R %Z'`
+tgl=$(date '+%D %R %Z')
 
 echo "## 🤔 LAST UPDATED: ${tgl}" > UPDATE.md
 
