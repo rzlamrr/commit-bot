@@ -15,7 +15,6 @@ tgl=$(date '+%D %R %Z')
 
 echo "## 🤔 LAST UPDATED: ${tgl}" > UPDATE.md
 
-git config --local user.email "rizal82rebel@gmail.com"
+git config --local user.email "rzlamrr.dvst@protonmail.com"
 git config --local user.name "rzlamrr"
-git add UPDATE.md
-git commit -am "${arr[$rand]} (${tgl})"
+git commit -asm "${arr[$rand]} (${tgl})"
