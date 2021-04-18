@@ -1,6 +1,6 @@
-<h2 align="center">Quote of The Day</h2>
-<h3 align="center"><i>"You can do it if you believe you can!"</i></h3>
-<h2 align="center">- Napoleon Hill</h2>
+<h4 align="center">Quote of The Day</h4>
+<h5 align="center"><i>"You cannot travel the path until you have become the path itself."</i></h5>
+<h5 align="center">- Buddha</h5>
 
 
-<h5 align="center"><i>updated:  04/19/21 04:52 WIB</i></h5>
+<h5 align="center"><i>updated:  04/19/21 05:18 WIB</i></h5>

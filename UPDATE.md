@@ -11,6 +11,10 @@ A bot that can make your Github stats green with scheduled auto commit.
 MIT
 
 ## Credits
+### API
+- [lukePeavey/quotable](https://github.com/lukePeavey/quotable)
+- [Go Quotes](https://goquotes.docs.apiary.io)
+### Thanks
 - [xyzuan/commit-gen](https://github.com/xyzuan/commit-gen)
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action)
 

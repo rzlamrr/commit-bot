@@ -22,7 +22,7 @@ clean() {
 }
 
 quotes() {
-    if curl -s ${api[$rapi]} > data.json; then
+    if curl -s "${api[$rapi]}" > data.json; then
         quote=$(jq -r '.content' data.json)
         if [[ "$quote" == "null" ]]; then
             quote=$(jq -r '.quotes[] .text' data.json)
@@ -40,9 +40,9 @@ clean
 quotes
 rm -f data.json
 
-echo "<h2 align=\"center\">Quote of The Day</h2>
-<h3 align=\"center\"><i>\"${quote}\"</i></h3>
-<h2 align=\"center\">- ${author}</h2>
+echo "<h4 align=\"center\">Quote of The Day</h4>
+<h5 align=\"center\"><i>\"${quote}\"</i></h5>
+<h5 align=\"center\">- ${author}</h5>
 
 
 <h5 align=\"center\"><i>updated:  ${tgl}</i></h5>" > README.md
