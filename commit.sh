@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TZ=Asia/Jakarta
+export TZ=Asia/Jakarta
 
 arr[0]="bot: 👋 Hello Github!"
 arr[1]="bot: 🥳 Yeayyy!"
