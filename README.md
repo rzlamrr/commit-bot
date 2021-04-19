@@ -1,6 +1,6 @@
 ## Quote of The Day
-> *"To live a pure unselfish life, one must count nothing as ones own in the midst of abundance."*
+> *"I have resolved on an enterprise that has no precedent and will have no imitator. I want to set before my fellow human beings a man in every way true to nature and that man will be myself."*
 >
->\- Buddha
+>\- Jean-Jacques Rousseau
 
-updated: 04/20/21 05:12 WIB
+updated: 04/20/21 06:06 WIB
