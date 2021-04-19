@@ -40,12 +40,12 @@ clean
 quotes
 rm -f data.json
 
-echo "<h4 align=\"center\">Quote of The Day</h4>
-<h5 align=\"center\"><i>\"${quote}\"</i></h5>
-<h5 align=\"center\">- ${author}</h5>
+echo "## Quote of The Day
+> *\"${quote}\"*
+>
+>\\- ${author}
 
-
-<h5 align=\"center\"><i>updated:  ${tgl}</i></h5>" > README.md
+updated: ${tgl}" > README.md
 
 git config --local user.email "rzlamrr.dvst@protonmail.com"
 git config --local user.name "rzlamrr"
