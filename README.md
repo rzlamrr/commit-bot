@@ -1,6 +1,6 @@
 <h4 align="center">Quote of The Day</h4>
-<h5 align="center"><i>"A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune."</i></h5>
-<h5 align="center">- Horace</h5>
+<h5 align="center"><i>"Economy is the basis of society. When the economy is stable, society develops. The ideal economy combines the spiritual and the material, and the best commodities to trade in are sincerity and love."</i></h5>
+<h5 align="center">- Morihei Ueshiba</h5>
 
 
-<h5 align="center"><i>updated:  04/19/21 23:09 WIB</i></h5>
+<h5 align="center"><i>updated:  04/20/21 00:21 WIB</i></h5>
