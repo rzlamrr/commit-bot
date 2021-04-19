@@ -1,6 +1,6 @@
 <h4 align="center">Quote of The Day</h4>
-<h5 align="center"><i>"I have no right to beauty. I had been condemned to masculine ugliness."</i></h5>
-<h5 align="center">- Renee Vivien</h5>
+<h5 align="center"><i>"Kindness is the language which the deaf can hear and the blind can see."</i></h5>
+<h5 align="center">- Mark Twain</h5>
 
 
-<h5 align="center"><i>updated:  04/19/21 12:10 WIB</i></h5>
+<h5 align="center"><i>updated:  04/19/21 13:08 WIB</i></h5>
