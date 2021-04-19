@@ -1,6 +1,6 @@
 <h4 align="center">Quote of The Day</h4>
-<h5 align="center"><i>"The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words."</i></h5>
-<h5 align="center">- Cicero</h5>
+<h5 align="center"><i>"When I am able to resist the temptation to judge others, I can see them as teachers of forgiveness in my life, reminding me that I can only have peace of mind when I forgive rather than judge."</i></h5>
+<h5 align="center">- Gerald Jampolsky</h5>
 
 
-<h5 align="center"><i>updated:  04/19/21 20:15 WIB</i></h5>
+<h5 align="center"><i>updated:  04/19/21 21:07 WIB</i></h5>
