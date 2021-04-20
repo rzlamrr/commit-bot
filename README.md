@@ -1,6 +1,6 @@
 ## Quote of The Day
-> *"Whoever is happy will make others happy, too."*
+> *"My mom will make me walk the dogs or take out the trash when I go home."*
 >
->\- Mark Twain
+>\- Queen Latifah
 
-updated: 04/20/21 08:30 WIB
+updated: 04/20/21 09:24 WIB
