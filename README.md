@@ -1,6 +1,6 @@
 ## Quote of The Day
-> *"I have resolved on an enterprise that has no precedent and will have no imitator. I want to set before my fellow human beings a man in every way true to nature and that man will be myself."*
+> *"Your attitude, not your aptitude, will determine your altitude."*
 >
->\- Jean-Jacques Rousseau
+>\- Zig Ziglar
 
-updated: 04/20/21 06:06 WIB
+updated: 04/20/21 07:22 WIB
