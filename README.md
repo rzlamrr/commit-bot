@@ -1,6 +1,6 @@
 ## Quote of The Day
-> *"We can practice tolerance while still holding true to cultural values that protect the institution of marriage as a union between only a man and a woman."*
+> *"Find beauty not only in the thing itself but in the pattern of the shadows, the light and dark which that thing provides."*
 >
->\- Ken Calvert
+>\- Junichiro Tanizaki
 
-updated: 04/20/21 19:09 WIB
+updated: 04/20/21 20:13 WIB
