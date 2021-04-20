@@ -1,6 +1,6 @@
 ## Quote of The Day
-> *"My mom will make me walk the dogs or take out the trash when I go home."*
+> *"Patriotism must be founded on great principals and supported by great virtue."*
 >
->\- Queen Latifah
+>\- Henry Bolingbroke
 
-updated: 04/20/21 09:24 WIB
+updated: 04/20/21 10:11 WIB
