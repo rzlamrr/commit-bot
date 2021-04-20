@@ -1,6 +1,6 @@
 ## Quote of The Day
-> *"Better be ignorant of a matter than half know it."*
+> *"I think because I became a mom later in life, everything in life means more."*
 >
->\- Publilius Syrus
+>\- Mariska Hargitay
 
-updated: 04/20/21 11:08 WIB
+updated: 04/20/21 12:08 WIB
