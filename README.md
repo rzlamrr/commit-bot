@@ -1,6 +1,6 @@
 ## Quote of The Day
-> *"I am following Nature without being able to grasp her, I perhaps owe having become a painter to flowers."*
+> *"He who conquers others is strong; He who conquers himself is mighty."*
 >
->\- Claude Monet
+>\- Laozi
 
-updated: 04/20/21 22:07 WIB
+updated: 04/20/21 23:08 WIB
