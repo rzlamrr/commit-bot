@@ -1,6 +1,6 @@
 ## Quote of The Day
-> *"Do not give your attention to what others do or fail to do; give it to what you do or fail to do."*
+> *"Never apologize for showing feeling. When you do so, you apologize for truth."*
 >
->\- Dhammapada
+>\- Benjamin Disraeli
 
-updated: 04/21/21 00:21 WIB
+updated: 04/21/21 01:15 WIB
