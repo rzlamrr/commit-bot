@@ -1,6 +1,6 @@
 ## Quote of The Day
-> *"Find beauty not only in the thing itself but in the pattern of the shadows, the light and dark which that thing provides."*
+> *"Waste your money and you're only out of money, but waste your time and you've lost a part of your life."*
 >
->\- Junichiro Tanizaki
+>\- Michael LeBoeuf
 
-updated: 04/20/21 20:13 WIB
+updated: 04/20/21 21:07 WIB
