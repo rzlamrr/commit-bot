@@ -1,6 +1,6 @@
 ## Quote of The Day
-> *"Whenever a doctor cannot do good, he must be kept from doing harm."*
+> *"Business is other people's money."*
 >
->\- Hippocrates
+>\- Delphine de Girardin
 
-updated: 04/20/21 16:06 WIB
+updated: 04/20/21 17:07 WIB
