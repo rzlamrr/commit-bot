@@ -1,6 +1,6 @@
 ## Quote of The Day
-> *"Never apologize for showing feeling. When you do so, you apologize for truth."*
+> *"There is no greater harm than that of time wasted."*
 >
->\- Benjamin Disraeli
+>\- Michelangelo
 
-updated: 04/21/21 01:15 WIB
+updated: 04/21/21 02:11 WIB
