@@ -1,6 +1,6 @@
 ## Quote of The Day
-> *"Your attitude, not your aptitude, will determine your altitude."*
+> *"Whoever is happy will make others happy, too."*
 >
->\- Zig Ziglar
+>\- Mark Twain
 
-updated: 04/20/21 07:22 WIB
+updated: 04/20/21 08:30 WIB
