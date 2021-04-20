@@ -1,6 +1,6 @@
 ## Quote of The Day
-> *"Patriotism must be founded on great principals and supported by great virtue."*
+> *"Better be ignorant of a matter than half know it."*
 >
->\- Henry Bolingbroke
+>\- Publilius Syrus
 
-updated: 04/20/21 10:11 WIB
+updated: 04/20/21 11:08 WIB
