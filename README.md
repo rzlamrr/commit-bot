@@ -1,6 +1,6 @@
 ## Quote of The Day
-> *"The creed of a true saint is to make the best of life, and to make the most of it."*
+> *"Whenever a doctor cannot do good, he must be kept from doing harm."*
 >
->\- Edwin Hubbel Chapin
+>\- Hippocrates
 
-updated: 04/20/21 15:08 WIB
+updated: 04/20/21 16:06 WIB
