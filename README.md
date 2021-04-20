@@ -1,6 +1,6 @@
 ## Quote of The Day
-> *"I know my mom said as early as she can remember letting me watch TV, my one treat a week when I was like 6 was to stay up and watch 'Saturday Night Live.'"*
+> *"The creed of a true saint is to make the best of life, and to make the most of it."*
 >
->\- Rashida Jones
+>\- Edwin Hubbel Chapin
 
-updated: 04/20/21 14:07 WIB
+updated: 04/20/21 15:08 WIB
