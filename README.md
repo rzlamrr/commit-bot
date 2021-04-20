@@ -1,6 +1,6 @@
 ## Quote of The Day
-> *"There is no greater harm than that of time wasted."*
+> *"Trust your hunches. They're usually based on facts filed away just below the conscious level."*
 >
->\- Michelangelo
+>\- Joyce Brothers
 
-updated: 04/21/21 02:11 WIB
+updated: 04/21/21 03:06 WIB
