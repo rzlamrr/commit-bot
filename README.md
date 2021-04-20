@@ -1,6 +1,6 @@
 ## Quote of The Day
-> *"He who conquers others is strong; He who conquers himself is mighty."*
+> *"Do not give your attention to what others do or fail to do; give it to what you do or fail to do."*
 >
->\- Laozi
+>\- Dhammapada
 
-updated: 04/20/21 23:08 WIB
+updated: 04/21/21 00:21 WIB
